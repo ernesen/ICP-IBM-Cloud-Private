@@ -1,4 +1,4 @@
-# ICP-IBM-Cloud-Private-
+# ICP-IBM-Cloud-Private
 Continuous learning with the world of IBM Cloud Private
 
 # Add the chart to the internal repository
